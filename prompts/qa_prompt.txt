@@ -1,0 +1,14 @@
+Question: What country is the Eiffel Tower located in?
+Answer: France|
+
+Question: Who is the spouse of Joe Biden?
+Answer: Jill Biden|
+
+Question: Who is the spouse of Ivanka Trump?
+Answer: Jared Kushner|
+
+Question: What is the country of citizenship of Rainn Wilson?
+Answer: United States of America|
+
+Question: Who manufactures the iPhone5?
+Answer: Apple|
