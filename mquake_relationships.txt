@@ -1,0 +1,34 @@
+continent of: person place thing, place
+capital of: place, place
+head of state: place, person
+head of government: place, person
+place of death: person, place
+spouse: person, person
+religion: person place, thing
+language: person place thing, person place thing
+place of birth: person, place thing
+alma mater: person, place thing
+child: person, person
+country of citizenship: person, place
+performed by: thing, person thing
+employed by: person, place thing
+founded by: thing, person
+author of: thing, person
+created by: thing, person thing
+founded in: thing, place
+country of origin: thing, place
+occupation: person, place thing
+genre: person, thing
+worked in: person, place thing
+famous for: person, thing
+sport: person place thing, place thing
+position played on team: person, thing
+coached by: thing, person
+headquarters location: place thing, place
+developed by: thing, person thing
+chairperson: thing, person
+chief executive officier: thing, person
+broadcaster: thing, thing
+produced by: thing, person thing
+director: thing, person
+officeholder: thing, person
