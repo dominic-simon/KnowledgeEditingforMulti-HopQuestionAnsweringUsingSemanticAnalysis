@@ -1,0 +1,15 @@
+Choose between place or thing to describe the following entity:
+Entity: Eiffel Tower
+Type: thing
+
+Choose between place or thing to describe the following entity:
+Entity: Antarctica
+Type: place
+
+Choose between place or thing to describe the following entity:
+Entity: soccer
+Type: thing
+
+Choose between place or thing to describe the following entity:
+Entity: Japan
+Type: place

@@ -1,0 +1,11 @@
+Question: Who is the president of the country the Eiffel Tower is located in?
+SRO: | president of | country of origin |
+
+Question: What is the capital city of the country of citizenship of Ivanka Trump's spouse?
+SRO: | capital of | country of citizenship | spouse of |
+
+Question: Who is the spouse of the head of state in the United States of America?
+SRO: | spouse of | head of state |
+
+Question: On which continent is the country of citizenship of the founder of the manufacturer of iPhone 5 situated?
+SRO: | continent of | country of citizenship | founded by | manufacturer of |

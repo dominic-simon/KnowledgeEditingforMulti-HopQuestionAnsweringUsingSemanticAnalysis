@@ -1,0 +1,19 @@
+Rephrase the following triple as a question:
+Triple: | Eiffel Tower | located in |
+Question: What country is the Eiffel Tower located in?
+
+Rephrase the following triple as a question:
+Triple: | Joe Biden | spouse of |
+Question: Who is the spouse of Joe Biden?
+
+Rephrase the following triple as a question:
+Triple: | Ivanka Trump | spouse |
+Question: Who is the spouse of Ivanka Trump?
+
+Rephrase the following triple as a question:
+Triple: | Rainn Wilson | country of citizenship |
+Question: What is the country of citizenship of Rainn Wilson?
+
+Rephrase the following triple as a question:
+Triple: | iPhone5 | manufactured by |
+Question: Who manufactures the iPhone5?
