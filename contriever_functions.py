@@ -1,3 +1,9 @@
+'''
+Some function reproduced and some functions adapted from the Github Repository for MQuAKE: Assessing Knowledge Editing in Language Models via Multi-Hop Questions.
+Repository Link: https://github.com/princeton-nlp/MQuAKE
+Function File Link: https://github.com/princeton-nlp/MQuAKE/blob/main/run_mello.ipynb
+'''
+
 import torch
 
 def mean_pooling(token_embeddings, mask):
