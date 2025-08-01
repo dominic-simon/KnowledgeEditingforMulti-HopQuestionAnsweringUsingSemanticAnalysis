@@ -1,6 +1,8 @@
 # Knowledge Editing for Multi-Hop Question Answering Using Semantic Analysis
 
-This is the repository for [Knowledge Editing for Multi-Hop Question Answering Using Semantic Analysis](), published at the 2025 International Joint Conference on Artificial Intelligence (IJCAI 2025). 
+This is the repository for [Knowledge Editing for Multi-Hop Question Answering Using Semantic Analysis](), which will be published at the 2025 International Joint Conference on Artificial Intelligence (IJCAI 2025). 
+
+A pre-print has been submitted to arXiv, but is not yet available. Until then the pre-print or conference proceedings are available, the manuscript PDF is provided in this repository.
 
 ## CHECK
 
@@ -15,7 +17,7 @@ Explanations of all command line arguments are provided in example script. The v
 ## Bugs and Questions
 If you come across any bugs or issues with the code, or would just like to ask questions about CHECK or generally discuss Knowledge Editing, please feel free to email Dominic Simon at **dominic.simon@ufl.edu** or open an issue on this repository. 
 
-## Citation
+<!--## Citation
 If you use our code in your research, please cite our work:
 ```bibtex
 @article{simon2025check,
@@ -25,3 +27,4 @@ If you use our code in your research, please cite our work:
   year={2025}
 }
 ```
+-->
